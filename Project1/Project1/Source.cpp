@@ -2,6 +2,6 @@
 
 void main(){
 	printf("sas");
-	return 0;//2323
+	printf("¿À´Ã");	
 	geche();
 }

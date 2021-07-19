@@ -5,7 +5,8 @@ void main() {
 	printf("¿À´Ã");
 	printf("w");
 	printf("¿À´Ã");
-	return 0;//2323
+	printf("1");
+	printf("2");
 
 	geche();
 }

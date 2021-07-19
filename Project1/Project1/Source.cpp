@@ -2,4 +2,5 @@
 
 void main(){
 	printf("sas");
+	return 0;
 	})
